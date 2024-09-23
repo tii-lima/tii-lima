@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tii-lima
+- 👋 Hi, I’m Tiago Lima
 - 👀 I’m interested in desenvolvimento de software
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on sotwares integrados com IA
